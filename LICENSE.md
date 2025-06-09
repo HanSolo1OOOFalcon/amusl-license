@@ -156,7 +156,7 @@ This License may only be modified by written agreement signed by the copyright h
 To apply this License to your software, include the following notice in each source file:
 
 ```
-Copyright (c) [YEAR] [COPYRIGHT_HOLDER]
+Copyright (c) 2025 HanSolo1000Falcon
 
 Licensed under the Anti-Malicious Use Software License (AMUSL) v1.0
 You may obtain a copy of the License at https://github.com/HanSolo1OOOFalcon/amusl-license
